@@ -1,0 +1,12 @@
+Caso de prueba: 1           
+Numero de piezas: 4
+Asignaciones: 15
+Comparaciones: 20
+Solucion: 15 10 15 20
+
+Caso de prueba: 2           
+Numero de piezas: 6
+Asignaciones: 20
+Comparaciones: 20
+Solucion: 20 20 10 10 20 10
+
