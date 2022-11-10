@@ -101,10 +101,10 @@ while linea != "0 0":
 
 #Preguntar por tildes
     ficheroS.write(f'''Caso de prueba: {caso}           
-Numero de piezas: {longitudFinal}
+Número de piezas: {longitudFinal}
 Asignaciones: {asignaciones}
 Comparaciones: {comparaciones}
-Solucion:''')
+Solución:''')
     while longitudFinal> 0:
         ficheroS.write(f" {torreFinal[longitudFinal-1]}")
         longitudFinal-=1
